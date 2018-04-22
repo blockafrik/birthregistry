@@ -1,0 +1,35 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/scottish-terrier.jpeg",
+    "date_of_Birth": "01/10/1994",
+    "place_of_birth": "Ottawa",
+    "nationality": "Canadian"
+  },
+    {
+    "id": 1,
+    "name": "Ben",
+    "picture": "images/scottish-terrier.jpeg",
+    "date_of_Birth": "13/10/1994",
+    "place_of_birth": "Ottawa",
+    "Nationality": "Canadian"
+  },
+    {
+    "id": 2,
+    "name": "Issac",
+    "picture": "images/scottish-terrier.jpeg",
+    "date_of_Birth": "13/10/1994",
+    "place_of_birth": "Ottawa",
+    "Nationality": "Canadian"
+  },  {
+    "id": 3,
+    "name": "David",
+    "picture": "images/scottish-terrier.jpeg",
+    "date_of_Birth": "13/10/1994",
+    "place_of_birth": "Ottawa",
+    "Nationality": "Canadian"
+  }
+    
+  
+]
